@@ -1,0 +1,37 @@
+{
+  "cognito": {
+    "poolId": "eu-west-1:93ce22b7-9f96-4415-ab3d-f4d26f374ff4",
+    "appUserPoolClientId": "",
+    "appUserPoolName": "",
+    "appDomainName": "",
+    "appUserPoolIdentityProvider": ""
+  },
+  "lex": {
+    "botName": "HazardReporter",
+    "botAlias": "$LATEST",
+    "initialText": "You can ask me to report a hazard. Just type \"Report a hazard\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Report a hazard' to get started.",
+    "reInitSessionAttributesOnRestart": false
+  },
+  "ui": {
+    "parentOrigin": "",
+    "toolbarTitle": "",
+    "toolbarLogo": "",
+    "enableLogin": false,
+    "AllowSuperDangerousHTMLInMessage": false,
+    "shouldDisplayResponseCardTitle": false,
+    "pushInitialTextOnRestart": false,
+    "directFocusToBotInput": false
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  },
+  "iframe": {
+    "iframeOrigin": "",
+    "shouldLoadIframeMinimized": true,
+    "iframeSrcPath": "/index.html#/?lexWebUiEmbed=true"
+  }
+}
