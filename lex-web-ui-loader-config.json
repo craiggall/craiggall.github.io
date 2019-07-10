@@ -1,13 +1,13 @@
 {
   "cognito": {
-    "poolId": "eu-west-1:93ce22b7-9f96-4415-ab3d-f4d26f374ff4",
+    "poolId": "eu-west-1:ae2aeaac-f337-4f21-8966-4436730cbb50",
     "appUserPoolClientId": "",
     "appUserPoolName": "",
     "appDomainName": "",
     "appUserPoolIdentityProvider": ""
   },
   "lex": {
-    "botName": "HazardReporter",
+    "botName": "HazardReporting",
     "botAlias": "$LATEST",
     "initialText": "You can ask me to report a hazard. Just type \"Report a hazard\" or click on the mic and say it.",
     "initialSpeechInstruction": "Say 'Report a hazard' to get started.",
