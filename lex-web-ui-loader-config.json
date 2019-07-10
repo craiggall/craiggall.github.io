@@ -24,7 +24,7 @@
     "directFocusToBotInput": false
   },
   "polly": {
-    "voiceId": "Salli"
+    "voiceId": "Justin"
   },
   "recorder": {
     "preset": "speech_recognition"
